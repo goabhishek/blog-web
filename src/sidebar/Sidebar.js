@@ -22,7 +22,7 @@ const Sidebar = () => {
           <li className='sidebarListItem'>Music</li>
           <li className='sidebarListItem'>style</li>
           <li className='sidebarListItem'>Sport</li>
-          <li className='sidebarListItem'>tech</li>
+          <li className='sidebarListItem'>Tech</li>
           <li className='sidebarListItem'>Cinema</li>
         </ul>
       </div>
