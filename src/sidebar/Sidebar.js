@@ -28,6 +28,11 @@ const Sidebar = () => {
       </div>
       <div className='sidebarItem'>
         <span className='sidebarTitle'>Follow Us</span>
+        <div className='sidebarSocial'>
+          <i className='sidebarIcon fa-brands fa-instagram'></i>
+          <i className='sidebarIcon fa-brands fa-pinterest'></i>
+          <i className='sidebarIcon fa-brands fa-twitter'></i>
+        </div>
       </div>
     </div>
   );
